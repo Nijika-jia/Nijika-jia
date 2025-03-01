@@ -31,7 +31,7 @@
 
 - 喜欢观看日漫📺,喜欢看少女乐队番!!! 少女乐队什么的,最好看了!!!
 - 喜欢听J-Pop,喜欢的乐队🎸 夜鹿 可惜夜
-- 热爱游戏世界，Minecraft》《L4d2》galgame
+- 热爱游戏世界，<<Minecraft>>, <<L4d2>>, 恋爱模拟游戏等那些...
 ---
 
 ## 📩 联系我
@@ -40,8 +40,6 @@
 
 - 邮箱：[2797435460@qq.com]  
 - GitHub：[https://github.com/Nijika-jia]
-- Twitter: [https://x.com/GghHdyhff]  
-
 ---
 
 ## 🎉 感谢你的到来
