@@ -1,49 +1,29 @@
-# 关于我 🌟
-我是伊地知佳，一个热爱生活、学习与分享的大学生。✨
----
+<h1 align="center">Hi 👋, I'm Nijikajia</h1>
+<h3 align="center">A college student majoring in computer science</h3>
 
-## 👩‍💻 我的简介
+- 🌱 I’m currently learning **C++, C#, JS, Python, Docker, React, Vue**
 
-- **昵称**：伊地知佳/Nijikajia
-- **爱好**：  
-  - 动漫 🎥  
-  - 编程 💻  
-  - 游戏 🎮  
-  - 宅家 🏠  
-- **专注领域**：  
-  - 算法
-  - 前端开发  
-  - 设计和用户体验
-  - 分享有趣的内容和生活灵感  
----
+- 👨‍💻 All of my projects are available at [blog.nijiakjia.top](blog.nijiakjia.top)
 
-## 🛠️ 我的技能
+- 📝 I regularly write articles on [blog.nijiakjia.top](blog.nijiakjia.top)
 
-- **编程语言**：JavaScript, TypeScript, Python, C++, HTML, JS, CSS
-- **编程软件**：VScode, Cursor, Trae, IDEA, DS, 微信开发者工具
-- **框架和工具**：Vue.js、React、Valaxy  
-- **设计工具**：Figma、Photoshop、Adobe After Effects、Adobe Premiere Pro、Blender
-- **乐器**: 当然是电吉他啦!听到喜欢的乐队的solo时会拿起来玩玩,但也仅限于玩玩了
-- **其他**：对前沿技术保持浓厚的兴趣，喜欢折腾各种新东西！
----
+- 💬 Ask me about **C++**
 
-## ❤️ 我喜欢的东西
+- 📫 How to reach me **xsj20040824@gmail.com**
 
-- 喜欢观看日漫📺,喜欢看少女乐队番!!! 少女乐队什么的,最好看了!!!
-- 喜欢听J-Pop,喜欢的乐队🎸 夜鹿 可惜夜
-- 热爱游戏世界，<<Minecraft>>, <<L4d2>>, 恋爱模拟游戏等那些...
----
+- 📄 Know about my experiences [blog.nijiakjia.top](blog.nijiakjia.top)
 
-## 📩 联系我
+- ⚡ Fun fact **二次元, Gutiar, AI**
 
-想了解更多或者和我交流，可以通过以下方式联系我：
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@gghhdyhff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gghhdyhff" height="30" width="40" /></a>
+<a href="https://fb.com/nijika_jia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nijika_jia" height="30" width="40" /></a>
+<a href="https://instagram.com/nijikajia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nijikajia" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/nijika_jia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nijika_jia" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/nijika_jia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nijika_jia" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/伊地知佳" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="伊地知佳" height="30" width="40" /></a>
+</p>
 
-- 邮箱：[2797435460@qq.com]  
-- GitHub：[https://github.com/Nijika-jia]
----
-
-## 🎉 感谢你的到来
-
-祝你每天都有好心情！🌟  
-
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
