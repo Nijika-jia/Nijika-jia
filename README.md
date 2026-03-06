@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nijikajia
+# 🦌Hi~ I'm Nijikajia
 <img align="right" src="https://count.getloli.com/get/@Nijika-jia?theme=moebooru&scale=1.1" alt="Nijika-jia" width="400"/>
 <p align="left">
 
@@ -31,7 +31,7 @@
 
 </p>
 
-# ABOUT ME
+## ABOUT ME
 <a href="mailto:2797435460@qq.com">  
     <!-- 链接里的图片：邮箱徽章 -->
     <img 
