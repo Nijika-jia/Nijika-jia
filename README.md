@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nijikajia</h1>
 <h3 align="center">A college student majoring in computer science</h3>
-
+<img align="right" src="https://count.getloli.com/get/@Nijika-jia?theme=moebooru&scale=1.1" alt="Nijika-jia" width="400"/>
 - 🌱 I’m currently learning **C++, C#, JS, Python, Docker, React, Vue**
 
 - 👨‍💻 All of my projects are available at [blog.nijiakjia.top](blog.nijiakjia.top)
