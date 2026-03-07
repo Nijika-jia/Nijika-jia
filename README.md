@@ -32,10 +32,10 @@
 </p>
 
 <div align="left" style="margin-right: 20px; margin-top: 10px;">
-  <img src="https://github.com/Nijika-jia/Nijika-jia/raw/main/C++.png" width="130" alt="C++" />
-    <img src="https://github.com/Nijika-jia/Nijika-jia/raw/main/VisualStudioCode.png" width="130" alt="VisualStudioCode" />
-    <img src="https://github.com/Nijika-jia/Nijika-jia/raw/main/Photoshop.png" width="130" alt="Photoshop" />
-    <img src="https://github.com/Nijika-jia/Nijika-jia/raw/main/Python.png" width="130" alt="Python" />
+  <img src="https://github.com/Nijika-jia/Nijika-jia/raw/main/C++.png" width="200" alt="C++" />
+    <img src="https://github.com/Nijika-jia/Nijika-jia/raw/main/VisualStudioCode.png" width="200" alt="VisualStudioCode" />
+    <img src="https://github.com/Nijika-jia/Nijika-jia/raw/main/Photoshop.png" width="200" alt="Photoshop" />
+    <img src="https://github.com/Nijika-jia/Nijika-jia/raw/main/Python.png" width="200" alt="Python" />
 </div>
 
 ## ABOUT ME
