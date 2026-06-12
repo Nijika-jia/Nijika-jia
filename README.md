@@ -1,20 +1,38 @@
-# 🦌Hi~ I'm Nijikajia
+## 🦌Hi~ I'm Nijikajia
+
+### connect me
+
+<p align="left">
+  <a href="mailto:xsj20040824@gmail.com">  
+    <img 
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Email"
+    >  
+  </a>
+  
+  <a href="https://github.com/Nijika_jia" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
+      alt="GitHub"
+    >
+  </a>
+
+  <a href="https://discord.com/users/Nijika_jia" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" 
+      alt="Discord"
+    >
+  </a>
+</p>
+
 <img align="right" src="https://count.getloli.com/get/@Nijika-jia?theme=moebooru&scale=1.1" alt="Nijika-jia" width="400"/>
 <p align="left">
 
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://www.cprogramming.com/)
+  ### languages and tools:
+  
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://www.w3schools.com/cs/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-<!-- 前端技术 -->
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 
 <!-- 后端/数据库 -->
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -33,7 +51,6 @@
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)](https://gradle.org/)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)](https://riverbankcomputing.com/software/pyqt/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com/)
@@ -48,6 +65,8 @@
 [![Valaxy](https://img.shields.io/badge/Valaxy-3E63DD?style=flat-square&logo=vue.js&logoColor=white)](https://valaxy.site/)
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.photoshop.com/en/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
+</p>
+
 
 </p>
 
@@ -58,14 +77,4 @@
   <img src="https://github.com/Nijika-jia/Nijika-jia/raw/main/Photoshop.png" height="100" alt="Photoshop" />
 </div>
 
-## 🍊ABOUT ME
-<a href="mailto:2797435460@qq.com">  
-    <!-- 链接里的图片：邮箱徽章 -->
-    <img 
-      src="https://img.shields.io/badge/2797435460%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-      alt="Email"
-    >  
-  </a>  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nijika-jia/Nijika-jia/output/github-contribution-grid-snake.svg">
-</p>
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="800" alt="3D Contribution Chart" />
